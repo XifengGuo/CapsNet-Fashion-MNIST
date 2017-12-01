@@ -41,7 +41,7 @@ Data preprocessing:
 
 **Accuracy**   
 
-Test Accuracy: `93.55%`
+Test Accuracy: `93.62%`
    
 Losses and accuracies:   
 ![](result/log.png)
